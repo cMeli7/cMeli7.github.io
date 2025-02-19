@@ -1,0 +1,40 @@
+body {background-image: url("https://static.vecteezy.com/system/resources/previews/002/492/704/non_2x/abstract-background-bokeh-glitter-violet-free-photo.JPG");}
+.nadpis{
+    background: azure;
+    font-size: 64px;
+    text-decoration: underline;
+    }
+
+   .od{
+    background: red;
+    text-align: center;
+    color: black;
+    text-align: left;
+    text-decoration: line-through;
+   }
+
+   .server{
+    background: silver;
+    font-size: 44px;
+    color: blueviolet;
+    text-decoration: underline;
+   }
+
+   .jasu{
+    background:rgb(19, 73, 73);
+    font-size: 36px;
+    color: rgb(181, 77, 241);
+    text-align: center;
+   }
+
+   .barva{
+    background: goldenrod;
+    color: indigo;
+    font-size: 50px;
+    text-align: center;
+   }
+
+   .tlac{
+    background: palevioletred;
+    color: aqua;
+   }
